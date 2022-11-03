@@ -5,7 +5,8 @@ Created on Thu Nov  3 11:01:02 2022
 @author: Siddhartha-PC
 """
 
-###  Import Libreries  
+###  Import Libreries 
+import nltk_download_utils
 import streamlit as st
 from streamlit_option_menu import option_menu
 st.set_option('deprecation.showPyplotGlobalUse', False)
