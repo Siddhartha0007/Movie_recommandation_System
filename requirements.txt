@@ -23,7 +23,6 @@ lightgbm==3.3.2
 yellowbrick==1.4
 requests==2.28.1
 streamlit-lottie==0.0.3
-pickle
 nltk==3.7
 scikit_image==0.19.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm
